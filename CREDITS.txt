@@ -1,0 +1,3 @@
+Graphics and sound effects: Kenney (www.kenney.nl), CC0 1.0 public domain.
+Packs: Platformer Art Deluxe, Music Jingles, Digital Audio, Interface Sounds.
+Characters, backgrounds and music: drawn and composed in code for this game.
